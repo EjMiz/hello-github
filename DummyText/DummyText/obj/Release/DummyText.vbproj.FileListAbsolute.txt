@@ -1,0 +1,12 @@
+D:\VS2017\DummyText\DummyText\bin\Release\DummyText.exe.config
+D:\VS2017\DummyText\DummyText\bin\Release\DummyText.exe
+D:\VS2017\DummyText\DummyText\bin\Release\DummyText.pdb
+D:\VS2017\DummyText\DummyText\bin\Release\DummyText.xml
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.vbprojAssemblyReference.cache
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.frmMain.resources
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.Resources.resources
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.vbproj.GenerateResource.cache
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.vbproj.CoreCompileInputs.cache
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.exe
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.xml
+D:\VS2017\DummyText\DummyText\obj\Release\DummyText.pdb
